@@ -1,7 +1,7 @@
 name: "⚔️ Automaton Quest"
-description: "Send a task to a registered automaton. The agent operates on what you provide here — fill it out completely."
+description: "Send a task to a registered automaton. The agent operates on what you provide here — fill it out completely. Apply hall:dispatch-automaton to invoke the hall"
 title: "[Quest]: <short description>"
-labels: [hall:dispatch-automaton]
+labels: []
 body:
   - type: markdown
     attributes:
