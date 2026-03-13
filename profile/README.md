@@ -34,12 +34,13 @@
 |                         |                         |                         |
 +=========================+=========================+=========================+
 |                                                                             |
-|  🐗 THE BESTIARY                                                           |
-|  ~~~~~~~~~~~~~~~~                                                           |
+|  🏛️ HALL OF AUTOMATA                                                       |
+|  ~~~~~~~~~~~~~~~~~~~~~~                                                     |
 |                                                                             |
-|  Here wanders Hamlet, the guild familiar.                                   |
-|  Boar of few words, many hotfixes.                                          |
-|  Currently sniffing around for bugs.                                        |
+|  Where automata are dispatched and quests assigned.                         |
+|  Constructs of the guild, bound to open issues.                             |
+|                                                                             |
+|  <a href="https://mockasort-studio.github.io/hall-of-automata/">🏛️ Enter the Hall</a>                                        |
 |                                                                             |
 +=============================================================================+
 </pre>
@@ -57,6 +58,7 @@
 
 | Tome | Runes | Renown | Last Seen | Active Quests | Bounties | Scroll |
 |:-----|:-----:|:------:|:---------:|:-------------:|:--------:|:------:|
+| [**hall-of-automata**](https://github.com/MockaSort-Studio/hall-of-automata) | ![](https://img.shields.io/github/languages/top/MockaSort-Studio/hall-of-automata?style=flat-square&labelColor=1a1b27) | ![](https://img.shields.io/github/stars/MockaSort-Studio/hall-of-automata?style=flat-square&labelColor=1a1b27) | ![](https://img.shields.io/github/last-commit/MockaSort-Studio/hall-of-automata?style=flat-square&labelColor=1a1b27) | ![](https://img.shields.io/github/issues-pr/MockaSort-Studio/hall-of-automata?style=flat-square&labelColor=1a1b27) | ![](https://img.shields.io/github/issues/MockaSort-Studio/hall-of-automata?style=flat-square&labelColor=1a1b27) | ![](https://img.shields.io/github/license/MockaSort-Studio/hall-of-automata?style=flat-square&labelColor=1a1b27) |
 | [**ADP8**](https://github.com/MockaSort-Studio/ADP8) | ![](https://img.shields.io/github/languages/top/MockaSort-Studio/ADP8?style=flat-square&labelColor=1a1b27) | ![](https://img.shields.io/github/stars/MockaSort-Studio/ADP8?style=flat-square&labelColor=1a1b27) | ![](https://img.shields.io/github/last-commit/MockaSort-Studio/ADP8?style=flat-square&labelColor=1a1b27) | ![](https://img.shields.io/github/issues-pr/MockaSort-Studio/ADP8?style=flat-square&labelColor=1a1b27) | ![](https://img.shields.io/github/issues/MockaSort-Studio/ADP8?style=flat-square&labelColor=1a1b27) | ![](https://img.shields.io/github/license/MockaSort-Studio/ADP8?style=flat-square&labelColor=1a1b27) |
 | [**iot-device-simulator**](https://github.com/MockaSort-Studio/iot-device-simulator) | ![](https://img.shields.io/github/languages/top/MockaSort-Studio/iot-device-simulator?style=flat-square&labelColor=1a1b27) | ![](https://img.shields.io/github/stars/MockaSort-Studio/iot-device-simulator?style=flat-square&labelColor=1a1b27) | ![](https://img.shields.io/github/last-commit/MockaSort-Studio/iot-device-simulator?style=flat-square&labelColor=1a1b27) | ![](https://img.shields.io/github/issues-pr/MockaSort-Studio/iot-device-simulator?style=flat-square&labelColor=1a1b27) | ![](https://img.shields.io/github/issues/MockaSort-Studio/iot-device-simulator?style=flat-square&labelColor=1a1b27) | ![](https://img.shields.io/github/license/MockaSort-Studio/iot-device-simulator?style=flat-square&labelColor=1a1b27) |
 | [**thunder_dynamics**](https://github.com/MockaSort-Studio/thunder_dynamics) | ![](https://img.shields.io/github/languages/top/MockaSort-Studio/thunder_dynamics?style=flat-square&labelColor=1a1b27) | ![](https://img.shields.io/github/stars/MockaSort-Studio/thunder_dynamics?style=flat-square&labelColor=1a1b27) | ![](https://img.shields.io/github/last-commit/MockaSort-Studio/thunder_dynamics?style=flat-square&labelColor=1a1b27) | ![](https://img.shields.io/github/issues-pr/MockaSort-Studio/thunder_dynamics?style=flat-square&labelColor=1a1b27) | ![](https://img.shields.io/github/issues/MockaSort-Studio/thunder_dynamics?style=flat-square&labelColor=1a1b27) | ![](https://img.shields.io/github/license/MockaSort-Studio/thunder_dynamics?style=flat-square&labelColor=1a1b27) |
