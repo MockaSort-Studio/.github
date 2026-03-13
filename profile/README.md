@@ -34,13 +34,13 @@
 |                         |                         |                         |
 +=========================+=========================+=========================+
 |                                                                             |
-|  🏛️ HALL OF AUTOMATA                                                       |
+|  🏛️ HALL OF AUTOMATA                                                        |
 |  ~~~~~~~~~~~~~~~~~~~~~~                                                     |
 |                                                                             |
 |  Where automata are dispatched and quests assigned.                         |
 |  Constructs of the guild, bound to open issues.                             |
 |                                                                             |
-|  <a href="https://mockasort-studio.github.io/hall-of-automata/">🏛️ Enter the Hall</a>                                        |
+| 🏛️ [Enter the Hall]("https://mockasort-studio.github.io/hall-of-automata/")                                        |
 |                                                                             |
 +=============================================================================+
 </pre>
