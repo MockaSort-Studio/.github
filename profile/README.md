@@ -40,7 +40,7 @@
 |  Where automata are dispatched and quests assigned.                         |
 |  Constructs of the guild, bound to open issues.                             |
 |                                                                             |
-| <a href="https://mockasort-studio.github.io/hall-of-automata/">🏛️ Enter the Hall</a>                                     |
+| <a href="https://mockasort-studio.github.io/hall-codex/">🏛️ Enter the Hall</a>                                     |
 |                                                                             |
 +=============================================================================+
 </pre>
